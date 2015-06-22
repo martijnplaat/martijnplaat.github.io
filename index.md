@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Your digital herald speaks:"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
