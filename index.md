@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Your digital herald speaks:"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Tech, AngularJS, JavaScript, Music, CSS, HTML]
 image:
   feature: typewriter.jpg
 ---
