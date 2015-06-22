@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About
+description: A college once said to me: "Wie schrijft die blijft" which means "He who writes, remains"
+tags: [Tech, Music, ]
 image:
   feature: soft-trees.jpg
 ---
