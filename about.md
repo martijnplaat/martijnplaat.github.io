@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About
-description: Peter Rietveld, a college, once said to me: 'Wie schrijft die blijft' which means 'He who writes, remains'
+description: ghgh
 tags: [Tech, Music]
 image:
   feature: soft-trees.jpg
