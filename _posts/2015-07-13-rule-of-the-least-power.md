@@ -34,11 +34,11 @@ No not really. Remember when building web applications; "Declaritive First". Thi
 "An imperative-only JavaScript web is enticing if we understand the web as open technologies and connected documents. But if we expand our understanding of the web to include connected systems, then declarative programming is a key part of how we connect those systems."
 ``` -- [Declarative Programming And The Web by Scot Reynen](http://www.smashingmagazine.com/2014/07/30/declarative-programming/)
 
-The second threat is actually where the mentioned tweet is all about. What we try to accomplish with WebAssembly is an invitation on the web of really powerful imperative languages like C, C++, etc.
+The second threat is actually what the mentioned tweet is all about. What we try to accomplish with WebAssembly is an invitation on the web of really powerful imperative languages like C, C++, etc.
 
 Now what the [Rule Of The Least Power](http://www.w3.org/2001/tag/doc/leastPower.html) actually says is that when you choose a language to process your data, especially when this data is published on the web, you should start with a language with the least power. Because the least powerful languages intrinsically facilitate the data in their language to web developers on the World Wide Web. Ie. we should advocate open data on the web, and therefore be aware of locking up the data in our programming languages!
 
-Respectively from least powerful to powerful we distinguish the following type of languages: descriptive languages (XML, HTML, RDF), limited propositional logic (access control lists, regular expressions) , declarative languages (JSON, SQL, XST, OWL), functional languages (Hashkell, Javascript) and finally imperative and turing-complete languages (Java, C, JavaScript).
+Respectively from least powerful to powerful we distinguish the following type of languages: descriptive languages (XML, HTML, RDF), limited propositional logic (access control lists, regular expressions) , declarative languages (JSON, SQL, XST, OWL), functional languages (Haskell, Javascript) and finally imperative and turing-complete languages (Java, C, JavaScript).
 
 Thus, I do not say that we should not use Javascript and WebAssembly but, when building a website/webapplication you should use a layered model and start with exposing your data in a descriptive language up to maybe even the use of C++ within a WebAssembly implementation :)
 
