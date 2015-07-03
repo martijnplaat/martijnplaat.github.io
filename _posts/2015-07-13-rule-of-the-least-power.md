@@ -8,7 +8,6 @@ tags: [sample post, images, test]
 comments: true
 ---
 
-{% tweet https://twitter.com/angular_nu/status/611855543683129345 align='center' %}
 
 I read this tweet recently. 
 
