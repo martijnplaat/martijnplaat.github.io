@@ -8,6 +8,7 @@ tags: [javascript, programming, atwood]
 comments: true
 ---
 
+{% twitter oembed https://twitter.com/rubygems/status/518821243320287232 %}
 
 I read this tweet recently. 
 
