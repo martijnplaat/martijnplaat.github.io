@@ -10,7 +10,7 @@ comments: true
 
 @angular_nu: "Not sure WebAssembly http://ow.ly/OwDNW  is going to make it as it violates Atwood's law: http://ow.ly/OwDXx . #webassemby #javascript"
 
-I've read this tweet recently. 
+When I read this tweet recently I had an epiphany..
 
 Since I have my background in semantic web technologies I have to say that we can only leverage the power of the web when data is freely available for everyone and even more; computers should be able to interpret the meaning of this data. The web, as we notice today, holds data which is freely available but, the semantics of the data is still locked up in our back-end databases. This lack of semantics on the web is not the point I want to make and is still a shortcoming of the web we hopefully overcome somewhere in the near future.
 
@@ -41,9 +41,6 @@ Now what the [Rule Of The Least Power](http://www.w3.org/2001/tag/doc/leastPower
 Respectively from least powerful to powerful we distinguish the following type of languages: descriptive languages (XML, HTML, RDF), limited propositional logic (access control lists, regular expressions) , declarative languages (JSON, SQL, XST, OWL), functional languages (Hashkell, Javascript) and finally imperative and turing-complete languages (Java, C, JavaScript).
 
 Thus, I do not say that we should not use Javascript and WebAssembly but, when building a website/webapplication you should use a layered model and start with exposing your data in a descriptive language up to maybe even the use of C++ within a WebAssembly implementation :)
-
-
-
 
 
 
