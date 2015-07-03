@@ -1,12 +1,13 @@
 ---
 layout: post-light-feature
 title: "Rule of the least power"
-description: "Always remember the question Tim Berners Lee advocates: [How many stars is your data?](http://www.w3.org/DesignIssues/LinkedData.html) "
+description: "Keep your data on the web open by using a hybrid model of descriptive-, declaritive- and turing-complete languages"
 categories: articles
 date: 2015-07-03
 tags: [javascript, programming, atwood]
 comments: true
-image.feature: soft-trees.jpg
+image:
+	feature: soft-trees.jpg
 ---
 
 
