@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Rule of the least power"
-description: "Atwood's Law: any application that can be written in JavaScript, will eventually be written in JavaScript"
+description: "Always remember the question Tim Berners Lee advocates: [How many stars is your data?](http://www.w3.org/DesignIssues/LinkedData.html) "
 categories: articles
 date: 2015-07-03
 tags: [javascript, programming, atwood]
@@ -31,7 +31,7 @@ Should we Javascript all things?
 No not really. Remember when building web applications; "Declaritive First". This is really important because with a declaritive language the data can be used far beyond an individual implementation.
 
 ```
-An imperative-only JavaScript web is enticing if we understand the web as open technologies and connected documents. But if we expand our understanding of the web to include connected systems, then declarative programming is a key part of how we connect those systems.
+"An imperative-only JavaScript web is enticing if we understand the web as open technologies and connected documents. But if we expand our understanding of the web to include connected systems, then declarative programming is a key part of how we connect those systems."
 ``` -- [Declarative Programming And The Web by Scot Reynen](http://www.smashingmagazine.com/2014/07/30/declarative-programming/)
 
 The second threat is actually where the mentioned tweet is all about. What we try to accomplish with WebAssembly is an invitation on the web of really powerful imperative languages like C, C++, etc.
