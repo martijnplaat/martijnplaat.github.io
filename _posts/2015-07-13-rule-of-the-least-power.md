@@ -6,6 +6,7 @@ categories: articles
 date: 2015-07-03
 tags: [javascript, programming, atwood]
 comments: true
+image.feature: soft-trees.jpg
 ---
 
 
@@ -18,7 +19,7 @@ But, what we have accomplished, is a web of connected documents with open -freel
 The first threat is hidden in Atwood's Law;
 
 ```
-any application that can be written in Javascript, will eventually be written in Javascript.
+"Any application that can be written in Javascript, will eventually be written in Javascript"
 ```
 
 Should we Javascript all things?
@@ -30,8 +31,8 @@ Should we Javascript all things?
 No not really. Remember when building web applications; "Declaritive First". This is really important because with a declaritive language the data can be used far beyond an individual implementation.
 
 ```
-An imperative-only JavaScript web is enticing if we understand the web as open technologies and connected documents. But if we expand our understanding of the web to include connected systems, then declarative programming is a key part of how we connect those systems. -- [Declarative Programming And The Web by Scot Reynen](http://www.smashingmagazine.com/2014/07/30/declarative-programming/)
-```
+An imperative-only JavaScript web is enticing if we understand the web as open technologies and connected documents. But if we expand our understanding of the web to include connected systems, then declarative programming is a key part of how we connect those systems.
+``` -- [Declarative Programming And The Web by Scot Reynen](http://www.smashingmagazine.com/2014/07/30/declarative-programming/)
 
 The second threat is actually where the mentioned tweet is all about. What we try to accomplish with WebAssembly is an invitation on the web of really powerful imperative languages like C, C++, etc.
 
