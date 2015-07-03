@@ -8,7 +8,7 @@ tags: [javascript, programming, atwood]
 comments: true
 ---
 
-{% twitter oembed https://twitter.com/rubygems/status/518821243320287232 %}
+@angular_nu: "Not sure WebAssembly http://ow.ly/OwDNW  is going to make it as it violates Atwood's law: http://ow.ly/OwDXx . #webassemby #javascript"
 
 I read this tweet recently. 
 
