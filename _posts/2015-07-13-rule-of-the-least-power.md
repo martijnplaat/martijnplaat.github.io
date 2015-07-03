@@ -7,7 +7,7 @@ date: 2015-07-03
 tags: [javascript, programming, atwood]
 comments: true
 image:
-	feature: soft-trees.jpg
+	feature: "soft-trees.jpg"
 ---
 
 
