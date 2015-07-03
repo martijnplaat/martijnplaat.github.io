@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: Rule of the least power 
 description: "Atwood's Law: any application that can be written in JavaScript, will eventually be written in JavaScript"
 categories: articles
