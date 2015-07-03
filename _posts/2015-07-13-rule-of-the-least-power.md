@@ -6,6 +6,8 @@ categories: articles
 date: 2015-07-03
 tags: [javascript, programming, atwood]
 comments: true
+image:
+	feature: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
 ---
 
 @angular_nu: "Not sure WebAssembly http://ow.ly/OwDNW  is going to make it as it violates Atwood's law: http://ow.ly/OwDXx . #webassemby #javascript"
