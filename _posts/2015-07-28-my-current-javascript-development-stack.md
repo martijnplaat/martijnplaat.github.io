@@ -1,9 +1,9 @@
 ---
 layout: post-light-feature
 title: "My current JavaScript development stack"
-description: ""
+description: "Angular, ES6, Babel, Browserify, Gulp, Bower, Material, Karma, Jasmine"
 categories: articles
-date: 2015-07-03
+date: 2015-07-28
 tags: [javascript, programming, assessment, angular]
 comments: true
 ---
