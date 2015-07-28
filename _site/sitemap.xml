@@ -6,23 +6,11 @@
 
     
     <url>
-        <loc>/articles/test-post</loc>
+        <loc>/articles/rule-of-the-least-power</loc>
     </url>
     
     <url>
-        <loc>/articles/the-little-prince</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/post-with-figure</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/post-with-feature</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/longform-post</loc>
+        <loc>/articles/my-current-javascript-development-stack</loc>
     </url>
     
 </urlset>

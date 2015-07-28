@@ -32,7 +32,7 @@ links:
 timezone:    Europe/Amsterdam
 future:      true
 highlighter: pygments
-markdown:    kramdown
+markdown:    kramdown 
 
 kramdown:
   auto_ids: true
