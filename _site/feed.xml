@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-07-28T22:17:01+02:00</updated>
+<updated>2015-07-28T22:27:48+02:00</updated>
 <id>/</id>
 <author>
   <name>Martijn van der Plaat</name>
@@ -28,14 +28,14 @@
   <content type="html">&lt;p&gt;Recently, I had to make an assessment for a dutch IT company. Therefore, I made a greenfield Angular-based web-application with all kind of new tools and technologies to build Javascript applications of the future.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;I use ECMAScript 6 to prepare myself for the upcoming Angular v2 framework&lt;/li&gt;
-  &lt;li&gt;I use BabelJS for transpiling ES6 code into ES5 code&lt;/li&gt;
-  &lt;li&gt;I use Browserify to bundle all code into one Javascript file&lt;/li&gt;
-  &lt;li&gt;I use Gulp to automatically syntax check-, transpile-, bundle-, and uglify the code&lt;/li&gt;
-  &lt;li&gt;I use Bower to manage my static libraries&lt;/li&gt;
-  &lt;li&gt;I use NPM package manager to install all kind of packages used in the Gulp task manager&lt;/li&gt;
-  &lt;li&gt;I use Angular Material for a slick UI&lt;/li&gt;
-  &lt;li&gt;I use Karma and Jasmine for testing the code&lt;/li&gt;
+  &lt;li&gt;ECMAScript 6 to prepare myself for the upcoming Angular v2 framework&lt;/li&gt;
+  &lt;li&gt;BabelJS for transpiling ES6 code into ES5 code&lt;/li&gt;
+  &lt;li&gt;Browserify to bundle all code into one Javascript file&lt;/li&gt;
+  &lt;li&gt;Gulp to automatically syntax check-, transpile-, bundle-, and uglify the code&lt;/li&gt;
+  &lt;li&gt;Bower to manage my static libraries&lt;/li&gt;
+  &lt;li&gt;NPM package manager to install all kind of packages used in the Gulp task manager&lt;/li&gt;
+  &lt;li&gt;Angular Material for a slick UI&lt;/li&gt;
+  &lt;li&gt;Karma and Jasmine for testing the code&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The source code for this little application can be found here:&lt;/p&gt;

@@ -10,14 +10,14 @@ comments: true
 
 Recently, I had to make an assessment for a dutch IT company. Therefore, I made a greenfield Angular-based web-application with all kind of new tools and technologies to build Javascript applications of the future. 
 
-* I use ECMAScript 6 to prepare myself for the upcoming Angular v2 framework
-* I use BabelJS for transpiling ES6 code into ES5 code
-* I use Browserify to bundle all code into one Javascript file
-* I use Gulp to automatically syntax check-, transpile-, bundle-, and uglify the code
-* I use Bower to manage my static libraries
-* I use NPM package manager to install all kind of packages used in the Gulp task manager
-* I use Angular Material for a slick UI
-* I use Karma and Jasmine for testing the code
+* ECMAScript 6 to prepare myself for the upcoming Angular v2 framework
+* BabelJS for transpiling ES6 code into ES5 code
+* Browserify to bundle all code into one Javascript file
+* Gulp to automatically syntax check-, transpile-, bundle-, and uglify the code
+* Bower to manage my static libraries
+* NPM package manager to install all kind of packages used in the Gulp task manager
+* Angular Material for a slick UI
+* Karma and Jasmine for testing the code
 
 The source code for this little application can be found here:
 
