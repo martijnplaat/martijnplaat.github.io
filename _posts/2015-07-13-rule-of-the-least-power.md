@@ -4,7 +4,7 @@ title: "Rule of the least power"
 description: "Keep your data on the web open by using a hybrid model of descriptive-, declaritive- and turing-complete languages"
 categories: articles
 date: 2015-07-03
-tags: [javascript, programming, atwood]
+tags: [javascript, programming, atwood, opendata]
 comments: true
 ---
 
