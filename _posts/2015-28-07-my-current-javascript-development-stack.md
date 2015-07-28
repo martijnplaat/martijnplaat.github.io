@@ -55,4 +55,3 @@ open -a Google\ Chrome --args --disable-web-security
 
 Below the presentation I gave to present my web-application:
 
-<iframe src="//slides.com/martijnvanderplaat-1/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
