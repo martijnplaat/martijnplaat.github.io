@@ -3,7 +3,7 @@ layout: post-light-feature
 title: "Sharing moments"
 description: "This blogpost is about sharing moments"
 categories: articles
-date: 2015-07-03
+date: 2015-08-16
 tags: [memory, life]
 comments: true
 ---
